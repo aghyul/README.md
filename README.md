@@ -5,8 +5,6 @@ I am a Full stack Developer & Mentor. I love experimenting with new technologies
 
 🌱 I’m currently learning Developer Certificate
 
-🦄 Creator of Unicorn Revealer
-
-💬 Ask me about Angular, Typescript,
+🦄 Creator of Websites and apps 
 
 📫 How to reach me zeldadz@protonmail.com
